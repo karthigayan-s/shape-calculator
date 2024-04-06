@@ -6,6 +6,7 @@ Repository to maintain shape calculator application
 If your machine running python3.x (3.11 preferred) then you can directly access the application. If not create virtual environment and run. Follow the below steps.
 
 $ source env/bin/activate
+
 $ pip install -r requirements.txt 
 
 ## Usage Example:
